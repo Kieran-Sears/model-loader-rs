@@ -1,0 +1,13 @@
+[package]
+name = "model-loader"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1.0.52"
+image = "0.24.6"
+serde = { version = "1.0.159", features = ["derive"] }
+structopt = "0.3.26"
+tensorflow = "0.20.0"
+
+

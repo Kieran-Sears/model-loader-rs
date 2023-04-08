@@ -1,0 +1,3 @@
+[submodule "pocketsphinx-rs"]
+	path = pocketsphinx-rs
+	url = https://github.com/kriomant/pocketsphinx-rs.git
